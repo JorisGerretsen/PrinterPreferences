@@ -11,6 +11,18 @@ Download the latest installer from the **[Releases](https://github.com/JorisGerr
 
 ---
 
+## Previews
+
+### Main Window
+![Printer Preferences Main Window](./images/main-window.png)
+
+### System Tray & Menu
+| System Tray Icon | Context Menu | About |
+| :---: | :---: | :---: |
+| ![Tray Icon](./images/tray-icon.png) | ![Tray Menu](./images/tray-menu.png) | ![About](./images/about.png) |
+
+---
+
 ## How It Works
 In non-persistent RDS, AVD, and Citrix environments, network printers are often removed and recreated at logon by Group Policy (GPO) or workspace management tools. Because Windows deletes per-user printer settings when a printer is removed, users lose their default printer and custom preferences (such as duplex printing or paper trays) on every logon.
 
