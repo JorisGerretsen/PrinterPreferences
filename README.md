@@ -2,7 +2,7 @@
 
 **Printer Preferences** preserves and restores your default printer and per-user printing preferences (duplex, paper tray, color/black-and-white, finishing, user codes, etc.) in non-persistent **RDS, AVD, and Citrix environments** using **FSLogix profile containers** or other roaming profiles.
 
-> **Copyright © Joris Gerretsen 2026** — Licensed under the [MIT License](./LICENSE).
+> **Copyright © Joris Gerretsen 2026** — Licensed under the [Freeware License Agreement](./LICENSE).
 
 ---
 
@@ -77,4 +77,4 @@ PrinterPreferences_Setup.exe /ALLUSERS /VERYSILENT /SUPPRESSMSGBOXES /NORESTART 
 ---
 
 ## License
-This project is licensed under the [MIT License](./LICENSE).
+This software is licensed under the [Freeware License Agreement](./LICENSE). Free for personal, internal enterprise, and MSP-managed use (no rebranding, decompiling, or commercial resale).
