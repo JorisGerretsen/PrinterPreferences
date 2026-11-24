@@ -77,6 +77,6 @@ Voor beheerders
 ---------------
 Bestanden en instellingen in het gebruikersprofiel (bijvoorbeeld FSLogix of
 een andere profieloplossing):
-- Instellingenbestand : %APPDATA%\Printer Preferences\printer_settings.json
+- Instellingenbestand : %APPDATA%\Printer Preferences\printer_settings.dat (versleuteld)
 - Logbestand          : %APPDATA%\Printer Preferences\printerpref.log
 - Register            : HKEY_CURRENT_USER\Software\Printer Preferences

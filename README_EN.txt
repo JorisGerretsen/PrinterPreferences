@@ -75,6 +75,6 @@ For administrators
 ------------------
 Files and settings in the user profile (for example FSLogix or another
 profile solution):
-- Settings file : %APPDATA%\Printer Preferences\printer_settings.json
+- Settings file : %APPDATA%\Printer Preferences\printer_settings.dat (encrypted)
 - Log file      : %APPDATA%\Printer Preferences\printerpref.log
 - Registry      : HKEY_CURRENT_USER\Software\Printer Preferences
