@@ -1,4 +1,4 @@
-# Printer Preferences (v2.1.0)
+﻿# Printer Preferences (v2.1.1)
 
 **Printer Preferences** preserves and restores your default printer and per-user printing preferences (duplex, paper tray, color/black-and-white, finishing, user codes, etc.) in non-persistent **RDS, AVD, and Citrix environments** using **FSLogix profile containers** or other roaming profiles.
 
